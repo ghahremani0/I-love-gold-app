@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- رنگ‌های تم طلایی/مشکی -->
+    <color name="gold_primary">#D4AF37</color>
+    <color name="gold_dark">#B8860B</color>
+    <color name="gold_light">#FFD700</color>
+    <color name="dark_bg">#1A1A2E</color>
+    <color name="dark_surface">#16213E</color>
+    <color name="light_bg">#FAFAFA</color>
+    <color name="light_surface">#FFFFFF</color>
+    <!-- رنگ‌های تم وام (آبی) -->
+    <color name="loan_primary">#1976D2</color>
+    <color name="loan_dark">#0D47A1</color>
+    <color name="loan_light">#BBDEFB</color>
+</resources>
